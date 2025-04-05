@@ -1,6 +1,6 @@
 import React, { use, useState } from 'react';
 import Country from '../Country/Country';
-import './countries.css'
+import './Countries.css';
 
 const Countries = ({fetchAllCountries}) => {
 
