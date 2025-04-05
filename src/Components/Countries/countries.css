@@ -3,3 +3,15 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
 }
+
+.imageResize img{
+    width: 160px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.imageResize{
+    background-color: cornsilk;
+    padding: 20px;
+    border-radius: 15px;
+}
